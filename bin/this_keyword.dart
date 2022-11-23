@@ -4,8 +4,8 @@ class Person {
   final String country = "indonesia";
 
   Person(String name, String address) {
-    this.name = name;
-    this.address = address;
+    // this.name = name;
+    // this.address = address;
   }
 }
 
